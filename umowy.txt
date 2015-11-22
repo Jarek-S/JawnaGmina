@@ -1,0 +1,308 @@
+Gmina Police
+WRiFP
+Lp. 
+Symbol umowy
+Przedmiot umowy
+Kwota
+Okres
+Kontrahent
+1
+FP/NZP/03/2012
+organizacja poczęstunku w związku z organizacją cyklu wizyt Komitetu Monitorującego
+7000,00
+2012-03-06 - 2012-03-20
+Hotel DOBOSZ
+2
+FP/NZP/22/2012
+wykonanie materiałów na spotkanie podsumowujące realizację II Etapu Koncepcji Rozbudowy Tras Rowerowych w Euroregionie
+5998,00
+2012-09-17 - 2012-09-20
+WENA - STUDIO REKLAMY
+3
+FP.27.2012
+wykonanie materiałów promujących projekty realizowane w ramach RPO WZ 2007-2013
+4650,00
+2012-10-15 - 2012-11-20
+Blue-Box Agencja Reklamowa
+4
+FP.28.2012
+wykonanie matariałów promujących projekty realizowane w ramach Naradowego Programu Przebudowy Dróg Lokalnych
+4675,00
+2012-11-22 - 2012-12-14
+Blue-Box Agencja Reklamowa
+5
+FP.24.2012
+wykonanie tłumaczenia pisemnego dokumentacji aplikacyjnejoraz konsekutywnych tłumaczeń z języka niemieckiego na polski i z polskiego na niemiecki podczas spotkania podsumowującego realizację II Etapu Koncepcji Rozbudowy Tras Rowerowych w Euroregionie Pomerania
+3580,00
+2012-09-19 - 2012-09-28
+anonimizacja
+6
+08/INTERREGIVA/2012 
+wykonanie 100szt. Artykułów drobnych na  nagrody sportowe, wykonanie zaproszeń 50 szt., wykonanie banerów 3 szt., druk plakatów 30 szt.
+5588,00 
+2012-06-13 - 2012-06-15
+Blue-Box Agencja Reklamowa
+7
+09/INTERREGIVA/2012
+wynajęcie dmuchanych zabawek
+4000,00
+2012-05-21 - 2012-06-16
+Marek Pająk "Fantastyczny świat" 
+8
+16/INTERREGIVA/2012
+przygotowanie i obsługa nagłośnienia podczas imprezy
+3000,00 
+2012-05-21 - 2012-06-17
+Miejski Ośrodek Kultury w Policach
+9
+21/INTERREGIVA/2012
+przygotowanie poczęstunku
+3500,00
+2012-05-21 - 2012-06-17
+Firma Handlowo-Usługowa Piotr Stasiek
+10
+14/INTERREGIVA/2012
+koordynacja projektu
+550,00
+2012-05-14 - 2012-07-31
+anonimizacja
+11
+15/INTERREGIVA/2012
+prowadzenie oraz tłumaczenie z języka niemieckiego na język polski i z języka polskiego na język niemiecki
+1705,00
+2012-05-21 - 2012-06-17
+anonimizacja
+12
+10/INTERREGIVA/2012
+ochrona imprezy
+500,00
+2012-05-23 - 2012-06-17
+anonimizacja
+13
+20/INTERREGIVA/2012
+ochrona imprezy
+500,00
+2012-05-23 - 2012-06-17
+anonimizacja
+14
+11/INTERREGIVA/2012
+ochrona imprezy
+500,00
+2012-05-23 - 2012-06-17
+anonimizacja
+15
+12/INTERREGIVA/2012
+ochrona imprezy
+500,00
+2012-05-23 - 2012-06-17
+anonimizacja
+16
+13/INTERREGIVA/2012
+obsługa księgowa projektu
+330,00
+2012-05-23 - 2012-07-31
+anonimizacja
+17
+33/INTERREGIVA/2012
+przygotowanie cateringu
+2400,00
+2012-11-22 - 2012-11-28
+Cafe Bliźniak
+18
+34/INTERREGIVA/2012
+przygotowanie cateringu
+3720,00
+2012-11-22 - 2012-11-28
+Ośrodek Sportu i Rekreacji w Policach
+19
+31/INTERREGIVA/2012
+ustne tłumaczenie z języka polskiego na język niemiecki i z języka niemieckiego na język polski
+1600,00
+2012-11-22 - 2012-11-28
+anonimizacja
+20
+28/INTERREGIVA/2012
+koordynacja projektu
+297,00
+2012-12-04 - 2012-12-31
+anonimizacja
+21
+30/INTERREGIVA/2012
+obsługa księgowa projektu
+80,00
+2012-12-04 - 2012-12-31
+anonimizacja
+22
+27/INTERREGIVA/2012
+wykonanie 40 szt. długopisów i 40 szt. teczek konferencyjnych
+960,00
+2012-11-22 - 2012-11-27
+AM Firma Reklamowa
+23
+FP.EFS.35.2012
+zakup i dostawa materiałów dydaktycznych do szkół podstawowych w Policach
+14509,00
+2012-11-29 - 2012-12-15
+Nowa Szkoła
+24
+FP.EFS.272.03.2012
+zakup i dostawa urządzeń oraz sprzętu komputerowego
+24465,39
+2012-05-15 - 2012-05-29
+MPC Paweł Oleksiewicz
+25
+FP.EFS.272.04.2012
+zakup i dostawa materiałów dydaktycznych do szkół podstawowych w Policach
+97919,87
+2012-05-30 - 2012-06-30
+Moje Bambino
+26
+FP.01.2013
+wykonanie analizy finansowo-ekonomicznej uwzględniajacej generowanie przychodu dla przedsięwzięcia "Budowa Transgranicznego Ośrodka Edukacji Ekologicznej w Zalesiu" 
+7380,00
+2013-01-31 - 2013-02-08
+BSC Daniel Śliwiński
+27
+FP.NZP/03/2013
+wykonanie 120 szt. ozdobych pozłacanych nożyczek ze stali hartowanej
+5563,04
+2013-04-11 - 2013-05-11
+SPENCER DUTSSON
+28
+FP.04.2012.ASZ
+wykonanie materiałów promujących projekty realizowane w ramach RPO WZ 2007-2013 oraz INTEREEG IVA
+4497,00
+2013-04-15 - 2013-04-24
+Blue-Box Agencja Reklamowa
+29
+FP.06.2013
+wykonanie aktualizacji dokumentacji aplikacyjnej dla przedsięwzięcia "Przebudowa budynku SP w Trzebieży oraz zakup sprzętu ratowniczo-gaśniczego o rozpoznawczego w ramach kompleksowej ochrony i zapobiegania zagrożeniom na terenie gminy Police i Powiatu Polickiego"
+5000,00
+2013-06-07 - 2013-06-20
+BSC Daniel Śliwiński
+30
+FP.05.2013
+wykonanie fotografii osiedla Starego Miasta
+1000,00
+2013-05-31 - 2013-06-03
+anonimizacja
+31
+16/2013
+przeprowadzenie szkolenia na temat pozyskiwania środków finansowych przez sołectwa
+1500,00
+2013-11-05 - 2013-05-16
+anonimizacja
+32
+FP.01.2014
+wspólpraca przy organizacji Targów
+2000,00
+2014-01-20 - 2014-01-30
+anonimizacja
+33
+FP.16.2014.AK
+przygotowanie programu artystycznego podczas Targów
+800,00
+2014-03-07 - 2014-04-13
+anonimizacja
+34
+FP.21.2014.AK
+dekoracja sali z przeznaczeniem na jarmark wielkanocny
+2000,00
+2014-04-03 - 2014-04-11
+anonimizacja
+35
+FP.13.2014.AK
+współorganizacja Targów
+20200,00
+2014-02-26 - 2014-04-13
+Ośrodek Sportu i Rekreacji w Policach
+36
+FP.18.2014.AK
+wykonanie filmu prezentującego ulicę Kuźnicką
+2000,00
+2014-03-27 - 2014-03-27
+anonimizacja
+37
+FP.22.2014.AK
+wykonanie filmu prezentującego inwestycje współfinansowane ze środków zewnętrznych w latach 2007-2013
+3600,00
+2014-04-07 - 2014-04-12
+anonimizacja
+38
+06/INTERREGIVA/2014
+współorganizacja Targów
+42200,00
+2014-02-25 - 2014-04-13
+Ośrodek Sportu i Rekreacji w Policach
+39
+16/INTERREGIVA/2014
+obsługa stoiska polsko-niemieckiego
+415,00
+2014-03-21 - 2014-04-13
+anonimizacja
+40
+04/INTERREGIVA/2014
+pełnienie funkcji konferansjera
+1600,00
+2014-03-06 - 2014-04-13
+anonimizacja
+41
+11/INTERREGIVA/2014
+pełnienie funkcji konferansjera
+1600,00
+2014-03-06 - 2014-04-13
+anonimizacja
+42
+04/INTERREGIVA/2014
+koordynacja projektu
+2670,00
+2014-02-25 - 2014-05-31
+anonimizacja
+43
+17/INTERREGIVA/2014
+obsługa stoiska polsko -niemieckiego
+415,00
+2014-03-21 - 2014-04-13
+anonimizacja
+44
+08/INTERREGIVA/2014
+tłumaczenie
+2490,00
+2014-03-12 - 2014-04-13
+anonimizacja
+45
+09/INTERREGIVA/2014
+tłumaczenie
+2490,00
+2014-03-12 - 2014-04-13
+anonimizacja
+46
+06/INTERREGIVA/2014
+przygotowanie i druk katalogu targowego
+5000,00
+2014-02-28 - 2014-04-02
+Top Choice
+47
+10/INTERREGIVA/2014
+tłumaczenie symultaniczne
+2000,00
+2014-02-28 - 2014-04-13
+Zachodniopomorskie Centrum Języków Obcych KONTEKST
+48
+14/INTERREGIVA/2014
+wykonanie wraz z oznakowaniem przedmiotów niezbędnych przez realizacji projektu "Wspieranie polsko-niemieckiej transgranicznej gospodarki"
+ 9310,00
+2014-02-25 - 2014-03-10
+Blue-Box Agencja Reklamowa
+49
+04INTERREGIVA/2014
+menadżer w ramach projektu "Wspieranie polsko-niemieckiej transgranicznej gospodarki"
+6680,00
+2014-04-02 - 2014-04-13
+anonimizacja
+50
+24/INTERREGIVA/2014
+wykonanie 60 szt. teczek konferencyjnych oraz 30 szt. pendrive wraz ze znakowaniem
+3300,00
+2014-04-22 - 2014-04-24
+Blue-Box Agencja Reklamowa
