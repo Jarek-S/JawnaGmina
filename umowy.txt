@@ -1,11 +1,5 @@
 Gmina Police
-WRiFP
-Lp. 
-Symbol umowy
-Przedmiot umowy
-Kwota
-Okres
-Kontrahent
+
 1
 FP/NZP/03/2012
 organizacja poczęstunku w związku z organizacją cyklu wizyt Komitetu Monitorującego

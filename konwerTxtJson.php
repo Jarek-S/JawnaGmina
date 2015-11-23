@@ -6,24 +6,20 @@
     </head>
     <body>
 <?php
+    
+/*
+Pobiera dane z pliku tekstowego i przetwarza na plik JSON.
+Format wejściowy: płatnik, pusta linia, sekwencje - numer, symbol dokumentu,
+przedmiot umowy, kwota, data wypłaty, strona umowy.
+Każde pole w nowej linii.
+*/
     define('PLIK_WE', 'umowy.txt');
     define('PLIK_WY', 'dane.json');
 
-//checks array $set, adds $element if not found
-    function addToUniqueSet($set,$element) {
-        $flag = 0;
-        for($i=0; $i<count($set); $i++) {
-            if ($set[$i] == $element) 
-            $flag = $flag + 1;
-        };
-        if ($flag==0)
-        $set[] = $element;
-        return $set;
-    };
-
-    $dane = file(PLIK_WE, FILE_IGNORE_NEW_LINES);
-    if (((count($dane)-8)%6)==0) {
-        for ($i=8, $j=0; $i<count($dane); $i=$i+6, $j++) {
+    ($dane = file(PLIK_WE, FILE_IGNORE_NEW_LINES)) or die("Nie udało się otworzyć pliku wejściowego");
+//tworzymy tablicę asocjacyjnych tablic - rekordów opisujących transakcje    
+    if (((count($dane)-2)%6)==0) {
+        for ($i=2, $j=0; $i<count($dane); $i=$i+6, $j++) {
             $items[$j] = array(
                 "lp" => $dane[$i],
                 "symbol" => $dane[$i+1],
@@ -33,37 +29,26 @@
                 "strona" => $dane[$i+5]
             );
         }
-//    echo "Tabela transakcji zawiera ".count($items)." rekordów.";
-    
-    
-    $transactions = array(
-        "zleca" => $dane[0],
-        "wydzial" => $dane[1],
-        "col_lp" => $dane[2],
-        "col_symbol" => $dane[3],
-        "col_przedmiot" => $dane[4],
-        "col_kwota" => $dane[5],
-        "col_okres" => $dane[6],
-        "col_strona" => $dane[7],
-        //"dane" => $items
-    );
-    //$test_array = array("zleca", "wydział", "Symbol umowy", "Gmina", "firma");
-    $strona_array = array();
-    foreach($items as $item) {
-        $test_string = $item['strona'];
-        $strona_array = addToUniqueSet($strona_array, $test_string);
-    }
-    echo "Tabela transakcji zawiera ".count($items)." rekordów przy ".count($strona_array)." kontrahentach.";
-    
-    //same with DRO
+    echo "Tabela transakcji zawiera ".count($items)." rekordów.</br>";
+//tworzymy tablicę kontrahentów (bez powtórzeń)
     foreach($items as $item) {
         $clients[] = $item['strona'];
     }
     $clients_unique = array_unique($clients);
-    echo "Liczba kontrahentów to ".count($clients_unique).", ty matołku.";
-
-
-//    echo json_encode($transactions, JSON_UNESCAPED_UNICODE);
+    echo "Liczba kontrahentów to ".count($clients_unique).".</br>";
+    foreach($clients_unique as $client) {
+        echo $client."</br>";
+    }
+//montujemy tablicę z transakcji, płatnika i listy kontrahentów
+    $transactions = array(
+        "zleceniodawca" => $dane[0],
+        "kontrahenci" => $clients_unique,
+        "transakcje" => $items
+    );
+//i zapisujemy ją do pliku w formacie JSON
+    ($file = fopen(PLIK_WY, "w+")) or die("Nie udało się otworzyć pliku do zapisu.");
+    (fputs($file, json_encode($transactions, JSON_UNESCAPED_UNICODE))) or die("Zapis nieudany.");
+    fclose($file);
     }
     else echo "Nieprawidłowa liczba pozycji";
 ?>
