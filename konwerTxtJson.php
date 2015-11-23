@@ -17,7 +17,7 @@
             $flag = $flag + 1;
         };
         if ($flag==0)
-        $set[count($set)] = $element;
+        $set[] = $element;
         return $set;
     };
 
@@ -55,6 +55,14 @@
     }
     echo "Tabela transakcji zawiera ".count($items)." rekordów przy ".count($strona_array)." kontrahentach.";
     
+    //same with DRO
+    foreach($items as $item) {
+        $clients[] = $item['strona'];
+    }
+    $clients_unique = array_unique($clients);
+    echo "Liczba kontrahentów to ".count($clients_unique).", ty matołku.";
+
+
 //    echo json_encode($transactions, JSON_UNESCAPED_UNICODE);
     }
     else echo "Nieprawidłowa liczba pozycji";
