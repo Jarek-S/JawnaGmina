@@ -38,14 +38,14 @@
                   <p>Tu możesz sprawdzić, na co w Policach politycy wydają pieniądze. Ale nie tylko - również to, kto i za co je dostaje. 
                   Można wyszukać informacje według różnych kryteriów, na przykład znaleźć wypłaty dla określonej firmy lub we wskazanym okresie. 
                       Można też ściągnąć wszystkie dane, żeby je sobie przejrzeć. Wybierz, co chcesz zrobić.</p>
-                    <div class="col-sm-6"><p><a class="btn btn-primary btn-lg btn-success center-block" href="#" role="button">Wyszukiwanie</a></p></div>
-                  <div class="col-sm-6"><a class="btn btn-primary btn-lg btn-success center-block" href="#" role="button">Przeglądanie</a></div>
+                    <div class="col-sm-6"><p><a id="showSearchForm" class="btn btn-primary btn-lg btn-success center-block" href="#" role="button">Wyszukiwanie</a></p></div>
+                  <div class="col-sm-6"><a id="getLinks" class="btn btn-primary btn-lg btn-success center-block" href="#" role="button">Pobieranie</a></div>
               </div>
           </div>       
       </div>
     </div>
 
-    <div class="container">
+    <div id="mainContainer" class="container">
         <div class="panel panel-primary">
             <div class="panel-heading">
               <h3 class="panel-title">Objaśnienie</h3>
@@ -56,6 +56,7 @@
               Dane obejmują okres od 1 listopada 2014 r., czyli obecną kadencję.
             </div>
           </div>
+        <!--tu wynik naciśnięcia guzika-->
     </div>
 
     <hr>
@@ -71,6 +72,7 @@
     <script src="/js/bootstrap.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="myScript.js"></script>
   
   </body>
 </html>
