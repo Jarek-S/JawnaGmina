@@ -13,7 +13,9 @@ $(function () {
     }
 
     function showForm() {
-        var form = '<form id="searchForm" class="form-horizontal"><div class="form-group"><label for="nazwa_firmy" class="col-sm-2 control-label">Nazwa</label>' +
+        var form = '<form id="searchForm" class="form-horizontal">' + 
+                    '<div class="form-group">' + 
+                    '<label for="nazwa_firmy" class="col-sm-2 control-label">Nazwa</label>' +
                     '<div class="col-sm-10"><input type="text" class="form-control" id="nazwa_firmy" name="nazwa" placeholder="podaj fragment nazwy" required></div></div>' +
                     '<div class="form-group"><div class="col-sm-offset-2 col-sm-10">' +
                     '<button type="submit" class="btn btn-success">Szukaj</button></div></div></form>';
@@ -34,7 +36,7 @@ $(function () {
 
     function getData(filter) {
         $.ajax({
-            url: 'http://localhost:48646/select.php',
+            url: '/select.php',
             method: 'GET',
             data: {'nazwa': filter},
             dataType: 'json',
@@ -74,4 +76,4 @@ $(function () {
         console.log(filter);
         getData(filter);
     });
-})
+});
